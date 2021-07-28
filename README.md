@@ -17,7 +17,11 @@
 
 #### Required packages
 [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html)
+
 [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html)
+
 [tidytext](https://cran.r-project.org/web/packages/tidytext/index.html) Similar to Tidyverse
+
 [textdata](https://cran.r-project.org/web/packages/textdata/index.html)
+
 [lubridate](https://cran.r-project.org/web/packages/lubridate/index.html)
