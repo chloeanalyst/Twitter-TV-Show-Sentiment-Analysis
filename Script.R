@@ -15,7 +15,7 @@ contestants <- c('Aaron', # List of contestants
                  'Brad',
                  'Chloe',
                  'Toby',
-                 'Faye',
+                 'Faye'
 
                   )
 
