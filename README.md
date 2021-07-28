@@ -5,14 +5,14 @@
 This project started out as from a small Google Sheets exploration piece using third party tools around 2/3 years ago. 
 
 
-In the summer of 2017, I watched Love Island for the first time and was HOOKED on the memes. I’d head straight over to twitter during the ad breaks and scroll for hours after the show laughing my head off at the hilarious content.  
+In the summer of 2018, I watched Love Island for the first time and was HOOKED on the memes. I’d head straight over to twitter during the ad breaks and scroll for hours after the show laughing my head off at the hilarious content.  
 
 If you’ve still managed to resist the show again this year or you’ve been living under a rock and have no idea what Love Island is I’ll fill you in. 
 
 Love Island is a reality TV show a bit like Big Brother that films contestants for 24 hours a day with the end goal of finding love. Contestants are picked mainly for their looks although this year they through in some scientists who were still very beautiful to even it out abit. 
 
 The contestants spend 8 weeks in a villa in Majorca coupling and recoupling each week for the chance to win £50K and sponsorship deals, sorry, I mean Love…
-In 2018, the show has had over 6 Million viewers watching live and on demand with over 400K daily viewers on Mobile devices. 
+In 2019, the show has had over 6 Million viewers watching live and on demand with over 400K daily viewers on Mobile devices. 
 
 Twitter is HUGE with Love Island viewers expressing their opinions about the nights episode. This graph shows how quickly the #LoveIsland hashtag grew. At one point, #LoveIsland was averaging 1.2M Tweets a week with a estimated reach of 11.1 Billion! 
 
