@@ -1,6 +1,6 @@
 # Twitter-TV-Show-Sentiment-Analysis
 
-#### Project Overview
+### Project Overview
 
 This project started out as from a small Google Sheets exploration piece using third party tools around 2/3 years ago. 
 The project quickly outgrew Google Sheets and I began to learn R to scale up the analysis. 
@@ -10,24 +10,25 @@ I feel that the sciript is now at a point where it is useful for others, please 
 I have some ideas for future iterations of this script and intend to dig deeper into sentiment methodology throughout the year. 
 
 
-#### Methodology
+### Methodology
 
 - Sentiment - AFINN Lexicon
 - Average Sentiment Score, total & by contestant
 - Total Sentiment Score, total & by contestant
 
 
-#### Love Island Sentiment Analysis
+### Love Island Sentiment Analysis
 
 [Link to data studio](https://datastudio.google.com/s/kyKKX4Tjz3c)
 
 
-#### Project History 
+### Project History 
 
 
 
 
-#### Required packages
+### Required packages
+
 [rtweet](https://cran.r-project.org/web/packages/rtweet/index.html)
 
 [tidyverse](https://cran.r-project.org/web/packages/tidyverse/index.html)
