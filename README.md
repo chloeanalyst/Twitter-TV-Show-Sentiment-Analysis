@@ -78,9 +78,11 @@ I have some ideas for future iterations of this script and intend to dig deeper 
 - Total Sentiment Score, total & by contestant
 
 
-### Love Island Sentiment Analysis
+### Love Island Sentiment Analysis - 2021
 
 [Link to data studio](https://datastudio.google.com/s/kyKKX4Tjz3c)
+
+<img width="605" alt="Screenshot 2021-07-28 at 13 45 29" src="https://user-images.githubusercontent.com/52977984/127324295-dab2ebed-7200-47fc-a53f-0c49e91a9d8e.png">
 
 ![image](https://user-images.githubusercontent.com/52977984/127323926-1c9b27de-0edb-4ff7-a18c-a59e6b07fca0.png)
 
