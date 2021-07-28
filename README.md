@@ -82,8 +82,7 @@ I have some ideas for future iterations of this script and intend to dig deeper 
 
 [Link to data studio](https://datastudio.google.com/s/kyKKX4Tjz3c)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/LoveIsland?src=hash&amp;ref_src=twsrc%5Etfw">#LoveIsland</a> Sentiment Score Analysis straight from the Villa Garden. 🏝<br><br>Data Collection: R - Rtweet<a href="https://twitter.com/hashtag/datavis?src=hash&amp;ref_src=twsrc%5Etfw">#datavis</a> : <a href="https://twitter.com/hashtag/GoogleDatastudio?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleDatastudio</a>, <a href="https://twitter.com/hashtag/AdobeXD?src=hash&amp;ref_src=twsrc%5Etfw">#AdobeXD</a><br><br>Link to full dashboard - updated daily: <a href="https://t.co/UGH8IalImB">https://t.co/UGH8IalImB</a> <a href="https://t.co/actHFwoBLx">pic.twitter.com/actHFwoBLx</a></p>&mdash; Chloe Morgan (@the_numerist) <a href="https://twitter.com/the_numerist/status/1409657061680451592?ref_src=twsrc%5Etfw">June 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+![image](https://user-images.githubusercontent.com/52977984/127323926-1c9b27de-0edb-4ff7-a18c-a59e6b07fca0.png)
 
 
 ### Required R packages
