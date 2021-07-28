@@ -51,7 +51,7 @@ I spent the summer watching the show and collecting data and began to visualise 
 
 <img width="728" alt="Screenshot 2021-06-26 at 19 13 42" src="https://user-images.githubusercontent.com/52977984/127321336-2bf8aabc-0e29-4465-ba1d-97b2ca3bb7d3.png">
 
-I initially looked at the distribution of sentiment tweets had for each contestant. After exploring the data I'd captured I created a sentiment score. 1 point for a positive tweet, 0 points for neutral and -1 points for negative tweets. Plotting this on a chart by day I discovered a fantastic piece of insight. The scene highlighted in the image below sent Tweeters into a storm. From this point I've been working on capturing Tweeters opinion on each episode to discover some great TV moments.
+I initially looked at the distribution of positive, negative and neutral sentiment for each contestant. After exploring the data, I created a sentiment score. 1 point for a positive tweet, 0 points for neutral and -1 points for negative tweets. Plotting this on a chart by day I discovered a fantastic piece of insight. The scene highlighted in the image below sent Tweeters into a storm. From this point I've been working on capturing Tweeters opinion on each episode to discover some great TV moments.
 
 <img width="601" alt="Screenshot 2021-07-28 at 13 22 22" src="https://user-images.githubusercontent.com/52977984/127321719-d3390f1e-782b-4f51-839b-66901e62a57a.png">
 
