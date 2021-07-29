@@ -2,7 +2,7 @@
 
 ##### Abigail
 
-![abigail](https://user-images.githubusercontent.com/52977984/127406636-d3604d8a-9b01-445c-bded-a5ec461ec18f.png =250x)
+![abigail](https://user-images.githubusercontent.com/52977984/127406636-d3604d8a-9b01-445c-bded-a5ec461ec18f.png | width=100)
 
 
 
