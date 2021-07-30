@@ -66,7 +66,7 @@ x <- as.numeric(length(contestants)+4) # Calculating a value to use to subset th
 output <- output[c(1:3,x)] # Select required columns (created at, ).
 
 
-output <- output %>% mutate(contestant = strsplit(gsub("[][\"]", "", contestant), ",")) %>% # Create a new row for any tweets that contain multiple contestants and group to find avg sentiment.
+output <- output %>% mutate(contestant = strsplit(gsub("[][\"]", "", contestant), ", ")) %>% # Create a new row for any tweets that contain multiple contestants and group to find avg sentiment.
                      unnest(contestant) %>%
                      group_by(created_at,contestant) %>%
                      summarise(avg_sentiment = mean(sentiment_score)) #Add any additional calculations here.
