@@ -58,7 +58,7 @@ for (i in contestants) {
 
 output$contestant <- apply(output[4:37], 1, function(x) paste(x[!is.na(x) & x != ""], collapse = ", ")) # Stack columns in to 1 column, 
                                                                                                         # this puts tweets about multiple contestants
-                                                                                                        # onto one row seperated by a comma
+                                                                                                        # onto one row separated by a comma
 x <- as.numeric(length(contestants)+4) # Calculating a value to use to subset the output.
                                        # 1. Total number of contestants.
                                        # 2. Total number of columns from the left that we want to subset +1. 
