@@ -84,7 +84,7 @@ I have some ideas for future iterations of this script and intend to dig deeper 
 
 <img width="605" alt="Screenshot 2021-07-28 at 13 45 29" src="https://user-images.githubusercontent.com/52977984/127324295-dab2ebed-7200-47fc-a53f-0c49e91a9d8e.png">
 
-![image](https://user-images.githubusercontent.com/52977984/127323926-1c9b27de-0edb-4ff7-a18c-a59e6b07fca0.png)
+<img width="653" alt="Screenshot 2021-08-04 at 21 19 34" src="https://user-images.githubusercontent.com/52977984/128618962-1b852000-73c8-4ec0-ab97-d88348988cfc.png">
 
 
 ### Required R packages
